@@ -94,3 +94,24 @@ h2 {
   margin-left: auto;
   padding: 15px;
 }
+
+/* About */
+
+#about-section {
+  text-align: center;
+  background-color: #ed1e24;
+  color: #fff;
+  padding-top: 50px;
+  height: 350px;
+}
+
+#about-section h2 {
+  margin-bottom: 20px;
+}
+
+#about-section p {
+  max-width: 650px;
+  margin-right: auto;
+  margin-left: auto;
+  line-height: 30px;
+}
